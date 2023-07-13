@@ -1,2 +1,2 @@
 # Spatiotemporal Inconsistency Learning for DeepFake Video Detection
-The codes are coming soon!
+Thanks for your intersets. The codes are released at https://github.com/Tencent/TFace.
